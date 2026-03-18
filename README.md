@@ -5,7 +5,7 @@ height:100%;
 font-size:20px; 
 font-family: Arial, Helvetica, sans-serif;
 ">Olá! Meu nome é <strong>Pablo</strong> e atualmente sou um desenvolvedor FullStack.</p>
-</div>
+
 
 
 <h2>Linguagens que utilizo hoje em dia</h2>
