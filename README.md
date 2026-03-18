@@ -1,15 +1,3 @@
-<div style="
-gap:10px;
-/* border:1px solid red; */
- display:flex; 
- width:100vw; 
- height:20vh ">
-<img src="https://avatars.githubusercontent.com/u/211043570?v=4" style="
-border-radius: 100%;
-/* border:1px solid white; */
-width:20%; 
-height:100%; 
-">
 <p style="
 /* border:1px solid white; */
 width:100%;
