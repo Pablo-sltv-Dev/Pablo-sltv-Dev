@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400">
+
+
 <h2 >Linguagens e ferramentas</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +25,7 @@
 
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM1NXNrYTloaDBrMGxjOWVhZGw2cGt3Y2h4M3k3OGVkdXF5andzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="350">
+
 
 
 
